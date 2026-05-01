@@ -1,0 +1,9 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "Kaizen: LifeTrack",
+  "description": "",
+  "majorCapabilities": []
+}
